@@ -20,7 +20,7 @@ export const puppyList = [
       ownerId: 1,
       tricks: [],
     },
-    {
+    { 
       id: 3,
       name: "Professor Wagglesworth",
       email: "waggie@email.com",
